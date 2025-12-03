@@ -1,0 +1,10 @@
+wrong --> Hardcoding inputs like a = 5; b = 10
+
+right -->  a, b = map(int, input().split())
+-----------
+
+wrong --> Giving extra print prompts like: print("Enter number:")
+
+right --> Never print prompts in competitive coding
+-----------
+
